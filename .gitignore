@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# the actual flower pictures
+/flowers
+flower_data.tar.gz
